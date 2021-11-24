@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "667280376808",
+    "firebase_url": "https://admincollageapp-2d64e-default-rtdb.firebaseio.com",
+    "project_id": "admincollageapp-2d64e",
+    "storage_bucket": "admincollageapp-2d64e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667280376808:android:1f18df6b78f657b0539a5d",
+        "android_client_info": {
+          "package_name": "com.technoabinash.collageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667280376808-8gd3a7bbsvjlnvoqfbss8lbiunn5i34r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5yD17RUBnS_NENSX1j9FFQcuvucArRzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667280376808-8gd3a7bbsvjlnvoqfbss8lbiunn5i34r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667280376808:android:cc956a9db327a77e539a5d",
+        "android_client_info": {
+          "package_name": "com.technoabinash.collageappuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667280376808-8gd3a7bbsvjlnvoqfbss8lbiunn5i34r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5yD17RUBnS_NENSX1j9FFQcuvucArRzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667280376808-8gd3a7bbsvjlnvoqfbss8lbiunn5i34r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

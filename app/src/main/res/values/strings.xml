@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CollageAppUser</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="notice">Notice</string>
+    <string name="gallary">Gallary</string>
+    <string name="faculty">Faculty</string>
+    <string name="developers">Developers</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="share">Share</string>
+    <string name="website">Websites</string>
+    <string name="themes">Themes</string>
+    <string name="ebooks">Ebook</string>
+    <string name="video_lecture">Video Lectures</string>
+    <string name="open">Start</string>
+    <string name="close">Close</string>
+    <string name="desc">Chengdu Neusoft College is approved by the Ministry of Education approved by the Neusoft holding investment organized by
+        the school-based, management, art, literature and other disciplines support each other, coordinated development of private colleges and universities.
+        In the school level, mainly undergraduate, and actively carry out continuing education, student education. At present, more than 10,000 full-time students.
+        The school is located in the outskirts of Chengdu, the world cultural heritage - Dujiangyan - Qingcheng Mountain Scenic Area,
+        the campus unique characteristics of western Sichuan, covers an area of ​​nearly 400,000 square meters,
+        with a total construction area of ​​200,000 square meters.</string>
+    <string name="address">Address: No.1 Dongruan Road, Qingchengshan, Dujiangyan, Chengdu, Sichuan 611844, P.R.China</string>
+    <string name="clz_name">Chengdu newsoft University</string>
+    <string name="clz_tel">Tel: +86-28-64888032 64888031 64888037 64888035</string>
+    <string name="clz_fax">Fax: +86-28-64888008</string>
+    <string name="clz_web">Website: http://en.nsu.edu.cn</string>
+    <string name="clz_email">E-mail: cd.international@neusoft.com ; meng.w@neusoft.com</string>
+    <string name="date">2020-5-21 12:00 Am</string>
+</resources>
